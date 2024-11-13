@@ -426,7 +426,7 @@ a>code {
   position: fixed;
   z-index: 9;
   max-width: 35px;
-  right: 10px;
+  left: 15px;
   top: 46%;
 }
 
